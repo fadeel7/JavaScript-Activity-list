@@ -1,0 +1,39 @@
+{
+  "name": "javascript-activity-list",
+  "version": "1.0.0",
+  "description": "A comprehensive implementation demonstrating classical prototypal inheritance patterns in JavaScript",
+  "main": "activityList.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node activityList.js",
+    "example:payment": "node activityList.js < test-cases/payment-example.txt",
+    "example:refund": "node activityList.js < test-cases/refund-example.txt",
+    "example:invalid": "node activityList.js < test-cases/invalid-amount.txt",
+    "example:zero": "node activityList.js < test-cases/zero-amount.txt"
+  },
+  "keywords": [
+    "javascript",
+    "prototypal-inheritance",
+    "oop",
+    "design-patterns",
+    "inheritance",
+    "constructor-functions",
+    "prototype-chain",
+    "financial",
+    "transaction-system",
+    "educational"
+  ],
+  "author": "Fadeel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fadeel7/javascript-activity-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fadeel7/javascript-activity-list/issues"
+  },
+  "homepage": "https://github.com/fadeel7/javascript-activity-list#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
