@@ -230,6 +230,6 @@ Before submitting your PR, make sure:
 
 ---
 
-**Thank you for contributing! **
+**Thank you for contributing!**
 
 Every contribution, no matter how small, makes this project better.
