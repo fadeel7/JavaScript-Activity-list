@@ -1,0 +1,4 @@
+Payment
+1000 VendorA
+-500
+VendorB
